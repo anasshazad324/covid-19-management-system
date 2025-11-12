@@ -7,23 +7,8 @@ COVID System Management ek web-based application hai jo COVID-19 se related data
 Is system ka main aim hai patients, vaccination records, test reports aur hospital information ko centralized platform par manage karna.
 
 🚀 Features
-
 🧍‍♂️ Patient Management: Patient details, test results, aur recovery status ka record.
-
 💉 Vaccination Module: Vaccine registration, dose tracking aur certificate generation.
-
 🏥 Hospital Management: Available beds, doctors aur facilities ka data.
-
 📊 Live Statistics Dashboard: COVID cases, recoveries aur deaths ka real-time data visualization.
-
 🔒 Secure Login System: Admin aur user panel ke liye authentication aur authorization.
-
-🛠️ Tech Stack
-
-Frontend: HTML, CSS, JavaScript (ya React, agar use kiya ho)
-
-Backend: PHP / Python / Node.js (jo bhi language use ki ho)
-
-Database: MySQL / MongoDB
-
-Tools: VS Code, XAMPP / Node Server, GitHub
