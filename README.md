@@ -12,3 +12,8 @@ Is system ka main aim hai patients, vaccination records, test reports aur hospit
 🏥 Hospital Management: Available beds, doctors aur facilities ka data.
 📊 Live Statistics Dashboard: COVID cases, recoveries aur deaths ka real-time data visualization.
 🔒 Secure Login System: Admin aur user panel ke liye authentication aur authorization.
+
+ADMIN DASHBOARD
+![Capture](https://github.com/user-attachments/assets/efa0fc1f-7296-4bb6-adae-4c68070c67f0)
+
+
